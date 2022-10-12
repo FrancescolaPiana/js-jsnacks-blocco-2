@@ -58,6 +58,10 @@ body{
     color: white;
 }
 
+.gry{
+    color: rgba(146, 146, 146, 0.432);
+}
+
 .snackbtn{
     display: inline-block;
     margin-top: 10px;
