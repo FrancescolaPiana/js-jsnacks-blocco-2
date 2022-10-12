@@ -17,6 +17,4 @@ let fx = function() {
     }
 }
 
-  
-
 button.addEventListener('click' ,fx)
